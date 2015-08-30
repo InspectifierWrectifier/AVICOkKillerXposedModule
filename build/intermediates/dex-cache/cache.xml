@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/adamoutler/code/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/build/intermediates/pre-dexed/release/support-annotations-23.0.0-76b8bcd03fe8dda360444b52e2e76c3c22fca5cf.jar" />
+    </item>
+    <item
+        jar="/home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/build/intermediates/pre-dexed/release/classes-11aaaa1e49fa2d33c1076f41b5d2808d72899f41.jar" />
+    </item>
+    <item
+        jar="/home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/build/intermediates/pre-dexed/release/internal_impl-23.0.0-05dfcc3f5ab090f6a9d05c1492bd526e02fcbd3a.jar" />
+    </item>
+    <item
+        jar="/home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/libs/XposedBridgeApi-54.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5f16da4d2ecb2c95be2556550e4a63461f43a99b">
+        <dex dex="/home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/build/intermediates/pre-dexed/release/XposedBridgeApi-54-b1831e7306e0d8c5af53441691d93604e541fca0.jar" />
+    </item>
+    <item
+        jar="/home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/build/intermediates/pre-dexed/release/classes-365894353a7a7439ca5c83b71f8d62da45bd8f02.jar" />
+    </item>
+
+</items>

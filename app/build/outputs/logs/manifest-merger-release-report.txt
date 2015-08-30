@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:2:1-23:12
+	xmlns:android
+		ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:23.0.0] /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:9:9-40
+meta-data#xposedmodule
+ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:10:13-12:40
+	android:name
+		ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:11:17-44
+	android:value
+		ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:12:17-37
+meta-data#xposeddescription
+ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:13:13-15:100
+	android:name
+		ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:14:17-49
+	android:value
+		ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:15:17-97
+meta-data#xposedminversion
+ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:16:13-18:38
+	android:name
+		ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:17:17-48
+	android:value
+		ADDED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml:18:17-35
+uses-sdk
+INJECTED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.0.0] /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adamoutler/AndroidStudioProjects/XposedAVICOkKiller/app/src/main/AndroidManifest.xml
